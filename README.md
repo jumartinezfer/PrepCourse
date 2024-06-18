@@ -1,2 +1,1 @@
-# PrepCourse
-este es un ejemplo.
+Este repositorio es un ejemplo de cómo crear un repositorio en github
