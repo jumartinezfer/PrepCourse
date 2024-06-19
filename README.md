@@ -1,1 +1,1 @@
-Este repositorio es un ejemplo de cómo crear un repositorio en github
+Este repositorio es un ejemplo de cómo crear un repositorio en github, mientras aprendo biemmm
